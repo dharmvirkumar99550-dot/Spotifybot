@@ -1,0 +1,4 @@
+# Netscape HTTP Cookie File
+.youtube.com	TRUE	/	FALSE	2147483647	PREF	f6=40000000
+.youtube.com	TRUE	/	FALSE	2147483647	YSC	dummy
+.youtube.com	TRUE	/	FALSE	2147483647	VISITOR_INFO1_LIVE	dummy
