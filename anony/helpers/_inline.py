@@ -153,7 +153,7 @@ class Inline:
                 [
                     self.ikb(
                         text=lang["source"],
-                        url="https://t.me/devdevelopers_07",
+                        url="https://github.com/AnonymousX1025/AnonXMusic",
                     )
                 ]
             ]
